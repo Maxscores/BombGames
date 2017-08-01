@@ -1,8 +1,8 @@
 import sys
 from random import randint
-from randombombgenerator import *
-from bomblist import bombs
-from BombRender import BombRender
+from modules.randombombgenerator import *
+from modules.bomblist import bombs
+from modules.BombRender import BombRender
 import string
 
 
